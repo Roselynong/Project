@@ -5,7 +5,7 @@ Bale pagkadownload mo sa Netbeans.
 Gawa ka ng package, name mo kaw bahala.
 Sabay hanapin mo ung file sunadan mo yang format nayan pagkapasok mo sa file.
 
-Magsesend ako ng copy sa build/application/postgre files.
+Magsesend ako ng copy sa build/postgre files.
 
 Tapos ung ibang files na sesend ko tuloy mo pareho lang sa Notes and Account.
 Sundan mo nalang ung format nito.
